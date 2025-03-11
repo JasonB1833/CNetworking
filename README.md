@@ -1,2 +1,5 @@
 # CNetworking
-repo for some networking programming in C/C++
+
+repo for practicing some networking programming in C/C++
+
+
